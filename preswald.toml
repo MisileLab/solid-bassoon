@@ -13,7 +13,7 @@ primaryColor = "#df8e1d"
 
 [data.used_car]
 type = "csv"
-path = "data/used_car_price_dataset.csv"
+path = "data/used_car_price_dataset_extended.csv"
 
 [logging]
 level = "INFO"
