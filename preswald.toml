@@ -1,19 +1,19 @@
 [project]
-title = "Preswald Project"
+title = "Simple Project"
 version = "0.1.0"
 port = 8501
 slug = "{project_slug}"
 entrypoint = "hello.py"
 
 [branding]
-name = "Preswald Project"
-logo = "images/logo.png"
-favicon = "images/favicon.ico"
-primaryColor = "#F89613"
+name = "Simple Project"
+logo = "images/74066467.png"
+favicon = "images/74066467.ico"
+primaryColor = "#df8e1d"
 
-[data.sample_csv]
+[data.used_car]
 type = "csv"
-path = "data/sample.csv"
+path = "data/used_car_price_dataset.csv"
 
 [logging]
 level = "INFO"
